@@ -1,2 +1,2 @@
-JavaURL
+FreedomJava for android
 =======
